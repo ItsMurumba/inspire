@@ -1,0 +1,22 @@
+{
+    "name": "itsmurumba/inspire",
+    "description": "Package to give you random inspiration quotes from https://api.goprogram.ai/",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "ItsMurumba\\Inspire\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ItsMurumba",
+            "email": "kevmurumba@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0.1"
+    },
+    "require-dev": {
+        "laravel/framework": "^9.35"
+    }
+}
