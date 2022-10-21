@@ -3,7 +3,9 @@ A Laravel package to give you random inspiration quotes from https://api.goprogr
 
 # Installation
 
-``composer require itsmurumba/inspire``
+```bash
+`composer require itsmurumba/inspire
+```
 
 # Testing
 
